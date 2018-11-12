@@ -2,11 +2,9 @@
 
 Emboss Braille with a 3D printer!
 
-The [application](https://arthursw.github.io/BrailleRap/).
+The [application](https://avinashpudale.github.io/devnagariBraille/).
 
-The [documentation](Documentation/documentation-fr.md) in french ([including a video demo](Documentation/img/20161020_VIDEO_FABRIKARIUM_320.gif)).
-
-
+this is modify version of code from https://crocsg.github.io/BrailleRap/
 ### Contribution
 
 You can modify and/or add braille language files (braille6.js, braille8new.js, braille8old.js).
