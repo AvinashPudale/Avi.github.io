@@ -1,10 +1,10 @@
-## Braille*Rap*
+## Braille*Rap* # DevBraille*Rap
 
-Emboss Braille with a 3D printer!
+Emboss Braille with a 3D printera!
 
 The [application](https://avinashpudale.github.io/devnagariBraille/).
 
-this is modify version of code from https://crocsg.github.io/BrailleRap/
+this is modify version of code from https://crocsg.github.io/BrailleRap/ to work on devnagari languages:)
 ### Contribution
 
 You can modify and/or add braille language files (braille6.js, braille8new.js, braille8old.js).
