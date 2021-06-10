@@ -2,7 +2,7 @@
 
 Emboss Braille with a 3D printera!
 
-The [application](https://avinashpudale.github.io/devnagariBraille/).
+The [application avinash github hosted page](https://avinashpudale.github.io/devnagariBraille/).
 
 this is modify version of code from https://crocsg.github.io/BrailleRap/ to work on devnagari languages:)
 ### Contribution
